@@ -59,9 +59,17 @@ We can move onto selecting the VM size and make a username & password.
 
 **We will creating a lot of usernames & passwords throughout this lab and what I do to keep track of everything so I don't forget is saving them in a notes app**
 
-**Click the check box to confirm licensing**, then hit **Review + create**
+**Click the check box to confirm licensing**, then click **Review + create**
 
-<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/410bce54b67e098d20e800ed1df3fe7142c97781/2.png>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/e1d9a1dd740ba0759b84d465478defd8e2186b15/3.png>
+
+We can move onto finalizing the creation of the VM. 
+
+As you can see the validation is passed. All you have to do is click **Create** and the VM is ready to go!
+
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/e1d9a1dd740ba0759b84d465478defd8e2186b15/3.png>
+
+
 
 
 
