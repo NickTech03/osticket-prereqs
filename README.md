@@ -67,11 +67,17 @@ We'll start by copying the **Public IP Address** which is located on the VM home
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/948517611721921761a1ad79195540fad104d94b/5.png>
 
-Next, we'll open Remote Desktop and paste the public IP address to login into the VM and click **Connect**. 
+Next, we'll open Remote Desktop and paste the public IP address to login into the VM and click **Connect**. (for the username section, use the same username used when creating the VM.)
 
-<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/9faa6fef4cb0861a8443ae1bb288ecd645996436/6.png>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/2e1dd38c45437b835310bfa32066f2f71fa89373/6.png>
 
-Now login with the username & password you used to create the VM. 
+Now login with password you used to create the VM then click **OK**.
+
+ - Username: `labuser`
+ - Password: `osTicketPassword1`
+
+<img src=>
+
 
 
 
