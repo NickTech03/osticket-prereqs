@@ -65,6 +65,7 @@ Now we can go ahead an log into our VM that we created using Remote Desktop Conn
 
 We'll start by copying our **Public IP Address** which is located on the VM home page.
 
+<img src=>
 
 
 
