@@ -45,7 +45,7 @@ We can move onto selecting the VM size and make a username & password.
 - Username: `labuser` (You can change this if you want, whatever is easy to remember.)
 - Password: `osTicketPassword1!` (You can change this if you want, whatever is easy to remember.)
 
-**We will creating a lot of usernames & passwords throughout this lab and what I do to keep track of everything so I don't forget is saving them in a notes app**
+**We will be creating a lot of usernames & passwords throughout this lab and what I do to keep track of everything so I don't forget is saving them in a notes app**
 
 **Click the check box to confirm licensing**, then click **Review + create**
 
