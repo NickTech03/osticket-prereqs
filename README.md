@@ -80,7 +80,13 @@ Now login with password you used to created the VM then click **OK**.
 
 This prompt will pop up, click **Yes** to continue.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/3547c7e167fc0d0784eed3f187e979218833d381/8.png>
+
+---
+
+## Step 3 - Within the VM download OsTicket installation files
+
+
 
 
 
