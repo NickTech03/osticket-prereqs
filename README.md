@@ -69,6 +69,8 @@ We'll start by copying the **Public IP Address** which is located on the VM home
 
 Next, we'll open Remote Desktop and paste the public IP address to login into the VM and click **Connect**.
 
+<img src=>
+
 
 
 
