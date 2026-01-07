@@ -61,11 +61,17 @@ As you can see the validation is passed. All you have to do is click **Create** 
 
 ## Step 2 - Log into the VM using Remote Desktop Connection
 
-Now we can go ahead an log into our VM that we created using Remote Desktop Connections (RDP).
+Now we can go ahead an log into the VM that we created using Remote Desktop Connections (RDP).
 
-We'll start by copying our **Public IP Address** which is located on the VM home page.
+We'll start by copying the **Public IP Address** which is located on the VM home page.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/948517611721921761a1ad79195540fad104d94b/5.png>
+
+Next, we'll open Remote Desktop and paste the public IP address to login into the VM and click **Connect**.
+
+
+
+
 
 
 
