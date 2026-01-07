@@ -49,7 +49,8 @@ Now we can move onto naming our VM, selecting perfered region and image options.
 - Region: `(Canda) Canada Central` (I chose this region as this is closest to me, please choose a region that is local to you.)
 - Image: `Windows 11 Pro, version 25H2 - x64 Gen2` (For this demonstration, I went with the following image. I've also used `Windows 10 Enterprise N, version 22H2 - x64 Gen2` which works fine as well. I perfer doing this lab on Windows 11, as modern day computers are using this Operating Systems.)
 
-<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/ee6e9972f245c3416bbed8e45481a9f1d6bce695/1.png/>
+<img src=>
+
 
 
 </p>
