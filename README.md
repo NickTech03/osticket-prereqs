@@ -33,8 +33,7 @@ This is the **FIRST** part of a three part osTicket Lab and in this repository, 
 <h2>Installation Steps</h2>
 
 <p>
-<img width="800" alt="Screenshot 2025-06-17 at 11 20 08 AM" src="https://github.com/user-attachments/assets/659bd8b4-8c6d-49fb-a3e9-20d236ca584b" />
- 
+![image alt](https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/ee6e9972f245c3416bbed8e45481a9f1d6bce695/1.png)
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
