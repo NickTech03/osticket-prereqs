@@ -61,6 +61,11 @@ As you can see the validation is passed. All you have to do is click **Create** 
 
 ## Step 2 - Log into the VM using Remote Desktop Connection
 
+Now we can go ahead an log into our VM that we created using Remote Desktop Connections (RDP).
+
+We'll start by copying our **Public IP Address** which is located on the VM home page.
+
+
 
 
 
