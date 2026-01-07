@@ -43,13 +43,25 @@ Start by creating a resource group, you can make one while inside the creation o
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/ee6e9972f245c3416bbed8e45481a9f1d6bce695/1.png/>
 
-Now we can move onto naming our VM, selecting perfered region and image options.
+ We can move onto naming our VM, selecting perfered region and image options.
 
 - Virtual machine name: `osTicket-VM` (You can use a different name, this is the name I choose that's related to this lab.)
 - Region: `(Canda) Canada Central` (I chose this region as this is closest to me, please choose a region that is local to you.)
 - Image: `Windows 11 Pro, version 25H2 - x64 Gen2` (For this demonstration, I went with the following image. I've also used `Windows 10 Enterprise N, version 22H2 - x64 Gen2` which works fine as well. I perfer doing this lab on Windows 11, as modern day computers are using this Operating Systems.)
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/410bce54b67e098d20e800ed1df3fe7142c97781/2.png>
+
+We can move onto selecting the VM size and make a username & password.
+
+- Size: `Standard_D4s_v3 - 4 vcpus, 16 GiB memory` (I recommend to choose one that has 2 vcpus & 8 GiB of memory but if you need more power, go with the on I selected.)
+- Username: `labuser` (You can change this if you want, whatever is easy to remember.)
+- Password: `osTicketPassword1!` (You can change this if you want, whatever is easy to remember.)
+
+**We will creating a lot of usernames & passwords throughout this lab and what I do to keep track of everything so I don't forget is saving them in a notes app**
+
+**Click the check box to confirm licensing**, then hit **Review + create**
+
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/410bce54b67e098d20e800ed1df3fe7142c97781/2.png>
 
 
 
