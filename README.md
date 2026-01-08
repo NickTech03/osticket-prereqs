@@ -99,6 +99,11 @@ Once extracted onto the desktop you should have a folder containing all the requ
 
 ## Step 4 - Install / Enable IIS in Windows (WITH CGI)
 
+Now you have to install / enable IIS in Windows (WITH CGI) using the following steps. (We can bypass some searching by typing **windows features** in the search bar.
+
+<img src=>
+
+
 
 
 
