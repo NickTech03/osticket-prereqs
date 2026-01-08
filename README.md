@@ -118,7 +118,7 @@ Now the web server will be installing and after it's finished you can hit **Clos
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/6c42ba7ffd8bab6aec26753b752c371ae85ddfb2/13.png>
 
-## Step 5 - Install PHP Manager for IIS
+## Step 5 - Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0)
 
 Now you have to install PHP Manager `(PHPManagerForIIS_V1.5.0)` from the **osTicket-Installation-Files** folder that you downloaded previously.
 
@@ -134,7 +134,12 @@ Next, click **I Agree** and then **Next** on everything else afterwards.
 
 The installation for PHP Manager is complete, you can click **Close**.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/7f2d56d59bd1336d6110d25ce53d1aa273abd9d9/16.png>
+
+## Step 6 - Install the Rewrite Module (rewrite_amd64_en-US)
+
+
+
 
 
 
