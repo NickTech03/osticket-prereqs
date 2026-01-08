@@ -41,7 +41,7 @@ Start by creating a resource group, you can make one while inside the creation o
 
 We can move onto selecting the VM size and make a username & password.
 
-- Size: `Standard_D4s_v3 - 4 vcpus, 16 GiB memory` (I recommend to choose one that has 2 vcpus & 8 GiB of memory but if you need more power, go with the on I selected.)
+- Size: `Standard_D4s_v3 - 4 vcpus, 16 GiB memory` (I recommend to choose one that has 2 vcpus & 8 GiB of memory but if you need more power, go with the one I selected.)
 - Username: `labuser` (You can change this if you want, whatever is easy to remember.)
 - Password: `osTicketPassword1!` (You can change this if you want, whatever is easy to remember.)
 
