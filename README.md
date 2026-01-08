@@ -130,7 +130,12 @@ Now you have to install PHP Manager `(PHPManagerForIIS_V1.5.0)` from the **osTic
 
 Next, click **I Agree** and then **Next** on everything else afterwards.
 
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/65aaec3af405a6e1f6e95e98ec9a78b65bbb58fa/15.png>
+
+The installation for PHP Manager is complete, you can click **Close**.
+
 <img src=>
+
 
 
 
