@@ -110,11 +110,14 @@ Once windows features is open, you now have to do the following steps.
 
 - Click the box next to `IIS (Internet Information Services` and click the (+) next to it, another set of drop-downs will show.
 - Click the (+) next to `World Wide Web Services` and click the (+) next to `Application Development Features`, another set of drop-downs will show.
-- Check: `CGI`, then hit **OK**. Now the web server will be installing and after it's finished you can hit **Close**.
+- Check: `CGI`, then hit **OK**. 
+
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/f61790213161c494ad34d7f2f7d6eabeeaf80101/12.png>
+
+Now the web server will be installing and after it's finished you can hit **Close**.
 
 <img src=>
 
-  
 
 
 
