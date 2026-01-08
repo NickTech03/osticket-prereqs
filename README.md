@@ -147,7 +147,9 @@ Now you have to install the Rewrite Module `(rewrite_amd64_en-US)` from the **os
 
 The installation for IIS URL Rewrite Module is complete, you can click **Finish**.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/779e124a07609b2b688f9dcf0f5acaa94f0b951e/18.png>
+
+## Step 7 - Create the directory C:\PHP
 
 
 
