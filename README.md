@@ -101,8 +101,20 @@ Once extracted onto the desktop you should have a folder containing all the requ
 
 Now you have to install / enable IIS in Windows (WITH CGI) using the following steps. (We can bypass some searching by typing **windows features** in the search bar.
 
+- Windows search bar: `windows features`
+- Click: **Turn Windows features on or off**
+
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/9c8544e328081821c11eb4b57036120a8a6fe09d/11.png>
+
+Once windows features is open, you now have to do the following steps.
+
+- Click the box next to `IIS (Internet Information Services` and click the (+) next to it, another set of drop-downs will show.
+- Click the (+) next to `World Wide Web Services` and click the (+) next to `Application Development Features`, another set of drop-downs will show.
+- Check: `CGI`, then hit **OK**. Now the web server will be installing and after it's finished you can hit **Close**.
+
 <img src=>
 
+  
 
 
 
