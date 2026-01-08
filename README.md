@@ -45,7 +45,7 @@ We can move onto selecting the VM size and make a username & password.
 - Username: `labuser` (You can change this if you want, whatever is easy to remember.)
 - Password: `osTicketPassword1!` (You can change this if you want, whatever is easy to remember.)
 
-**We will be creating a lot of usernames & passwords throughout this lab and what I do to keep track of everything so I don't forget is saving them in a notes app**
+**We will be creating a lot of usernames & passwords throughout this lab and what I do to keep track of everything so I don't forget is saving them in a password manager app/software. (Please note that due to security reasons and unwanted threats on the internet, it is not good practice to keep passwords on a notes app or plain/readable text document)**
 
 **Click the check box to confirm licensing**, then click **Review + create**
 
@@ -84,7 +84,17 @@ This prompt will pop up, click **Yes** to continue.
 
 ---
 
-## Step 3 - Within the VM download OsTicket installation files
+## Step 3 - Within the VM download osTicket installation files
+
+Now that you've gotten logged into the VM, were going to download the required installation files below for osTicket and extract the file to the desktop.
+
+- Download: https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD
+- Click: ** Download anyway**
+
+<img src=>
+
+
+  
 
 
 
