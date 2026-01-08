@@ -143,6 +143,10 @@ Now you have to install the Rewrite Module `(rewrite_amd64_en-US)` from the **os
 - Click: `(rewrite_amd64_en-US)`
 - A prompt for Rewrite Module will pop up, just check the box **accept the terms in License Agreement** and hit **Install**.
 
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/0f3b62ad578763ed5a5e9b3445c1f3c6f16ff19e/17.png>
+
+The installation for IIS URL Rewrite Module is complete, you can click **Finish**.
+
 <img src=>
 
 
