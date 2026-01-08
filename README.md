@@ -95,7 +95,7 @@ Now that you've gotten logged into the VM, were going to download the required i
 
 Once extracted onto the desktop you should have a folder containing all the required installation files for osTicket.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/6493ab92b911dabb2f4e461d3a49f88ef07a8c94/10.png>
 
 
 
