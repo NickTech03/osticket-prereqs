@@ -89,9 +89,15 @@ This prompt will pop up, click **Yes** to continue.
 Now that you've gotten logged into the VM, were going to download the required installation files below for osTicket and extract the file to the desktop.
 
 - Download: https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD
-- Click: ** Download anyway**
+- Click: **Download anyway**
+
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/a7a70736f0fdc98749222503a9f2cde8ae8e0e2c/9.png>
+
+Once extracted onto the desktop you should have a folder containing all the required installation files for osTicket.
 
 <img src=>
+
+
 
 
   
