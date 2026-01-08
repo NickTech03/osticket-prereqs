@@ -120,6 +120,14 @@ Now the web server will be installing and after it's finished you can hit **Clos
 
 ## Step 5 - Install PHP Manager for IIS
 
+Now you have to install PHP Manager `(PHPManagerForIIS_V1.5.0)` from the **osTicket-Installation-Files** folder that you downloaded previously.
+
+- Open `osTicket-Installation-Files`
+- Click: `(PHPManagerForIIS_V1.5.0)`
+- A prompt for PHP Manager will pop up, just click **Next**
+
+<img src=>
+
 
 
 
