@@ -97,6 +97,9 @@ Once extracted onto the desktop you should have a folder containing all the requ
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/e3f4d7446cf4c52c982d9318a4dea31948db6a18/10.png>
 
+## Step 4 - Install / Enable IIS in Windows (WITH CGI)
+
+
 
 
 
