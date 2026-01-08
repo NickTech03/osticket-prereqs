@@ -138,6 +138,13 @@ The installation for PHP Manager is complete, you can click **Close**.
 
 ## Step 6 - Install the Rewrite Module (rewrite_amd64_en-US)
 
+Now you have to install the Rewrite Module `(rewrite_amd64_en-US)` from the **osTicket-Installation-Files** folder.
+
+- Click: `(rewrite_amd64_en-US)`
+- A prompt for Rewrite Module will pop up, just check the box **accept the terms in License Agreement** and hit **Install**.
+
+<img src=>
+
 
 
 
