@@ -108,7 +108,7 @@ Now you have to install / enable IIS in Windows (WITH CGI) using the following s
 
 Once windows features is open, you now have to do the following steps.
 
-- Click the box next to `IIS (Internet Information Services` and click the (+) next to it, another set of drop-downs will show.
+- Click the box next to `IIS (Internet Information Services)` and click the (+) next to it, another set of drop-downs will show.
 - Click the (+) next to `World Wide Web Services` and click the (+) next to `Application Development Features`, another set of drop-downs will show.
 - Check: `CGI`, then hit **OK**. 
 
@@ -116,7 +116,10 @@ Once windows features is open, you now have to do the following steps.
 
 Now the web server will be installing and after it's finished you can hit **Close**.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/6c42ba7ffd8bab6aec26753b752c371ae85ddfb2/13.png>
+
+## Step 5 - Install PHP Manager for IIS
+
 
 
 
