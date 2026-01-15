@@ -169,7 +169,7 @@ Next, from the `osTicket Installation-Files` folder. We'll extract `php-7.3.8-nt
 
 - From the `osTicket Installation-Files`, right click `php-7.3.8-nts-Win32-VC15-x86` zip file and click **Extract All**.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/8b0c698a811d6cb78f9b80dac7e4820ce3567058/21.png>
 
 
 
