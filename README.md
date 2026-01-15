@@ -151,6 +151,17 @@ The installation for IIS URL Rewrite Module is complete, you can click **Finish*
 
 ## Step 7 - Create the directory C:\PHP
 
+Now, we're going to create a seperate folder to install `PHP` and we'll create this folder on the C:\ drive.
+
+- Right click on the file explorer icon and open a new tab.
+- Navigate to the `Windows (C:)` by clicking the drop-down on `This PC`.
+
+<img src=>
+
+
+
+
+
 
 
 
