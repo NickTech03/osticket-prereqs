@@ -227,8 +227,16 @@ Now, you have to install `mysql-5.5.62-win32` from the **osTicket-Installation-F
 
 - You can bypass this prompt and click **Next**.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/48f46a733b8f6156ee5e8adcb5757ada2c7fb300/33.png>
 
+- This next step is really important and like I mentioned on **Step 1** to keep any passwords & usernames that you've created saved on a password manager app/software.
+
+- New root Password: `ROOT` **(All Capital Letter)**
+- Confirm: `ROOT` **(All Capital Letter)**
+
+**This password is not ideal to use in the real world due to security safety, but for the sake of this demonstration and to keep things simple, you can use it**
+
+<img src=>
 
 
 
