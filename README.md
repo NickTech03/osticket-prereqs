@@ -245,7 +245,10 @@ Now, you have to install `mysql-5.5.62-win32` from the **osTicket-Installation-F
 
 The installation for `mysql-5.5.62-win32` is complete, you can click **Finish**.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/0c70dbb97abd8f5d9c8fc9519278e1e8b9f78cbc/36.png>
+
+## Step 10 - Open Internet Information Services (IIS) as an Admin & Register PHP from within IIS
+
 
 
 
