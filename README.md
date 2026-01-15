@@ -192,7 +192,15 @@ The installation for `Install VC_redist.x86` (Microsoft Visual C++ Redistributab
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/62c17008319239aaa1d22aee5b1d8b74b25fbb91/25.png>
 
-## Step 9 - Install Install MySQL (mysql-5.5.62-win32)
+## Step 9 - Install MySQL (mysql-5.5.62-win32)
+
+Now, you have to install `mysql-5.5.62-win32` from the **osTicket-Installation-Files** folder.
+
+- Double Click `mysql-5.5.62-win32`.
+- Click **Next**.
+
+<img src=>
+
 
 
 
