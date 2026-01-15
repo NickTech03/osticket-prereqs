@@ -256,6 +256,9 @@ Now, you have to install `mysql-5.5.62-win32` from the **osTicket-Installation-F
 
 
 
+
+
+
   
 
 
