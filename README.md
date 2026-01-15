@@ -215,6 +215,10 @@ Now, you have to install `mysql-5.5.62-win32` from the **osTicket-Installation-F
 
 - Check the box for **Launch the MySQL Instance Configuration Wizard**. then click **Finish**.
 
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/fd8e57776ab98ab6488e5ab5270e3c70fc188058/30.png>
+
+- Click **Next**.
+
 <img src=>
 
 
