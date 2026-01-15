@@ -203,8 +203,11 @@ Now, you have to install `mysql-5.5.62-win32` from the **osTicket-Installation-F
 
 - Check the box for **I accept the terms in the license Agreement**, then click **Next**.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/19a13c9b027c1a658861e3b049710228154ae404/27.png>
 
+- For the **Setup Type** Choose **Typical** and it should bring you to the next prompt or just click **Next**.
+
+<img src=>
 
 
 
