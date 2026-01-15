@@ -165,6 +165,12 @@ Next, we'll create a new folder in the `C:\` drive named `PHP`.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/e7d27610e1c7e78ddf9b06bfe23e13b9dd0aadea/20.png>
 
+Next, from the `osTicket Installation-Files` folder. We'll extract `php-7.3.8-nts-Win32-VC15-x86` zip file into the `C:\PHP` folder that you created.
+
+- From the `osTicket Installation-Files`, right click `php-7.3.8-nts-Win32-VC15-x86` zip file and click **Extract All**.
+
+<img src=>
+
 
 
 
