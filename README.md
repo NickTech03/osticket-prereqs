@@ -190,7 +190,7 @@ Now, you have to install `Install VC_redist.x86` (Microsoft Visual C++ Redistrib
 
 The installation for `Install VC_redist.x86` (Microsoft Visual C++ Redistributable (x86)) is complete, you can click **Close**.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/62c17008319239aaa1d22aee5b1d8b74b25fbb91/25.png>
 
 
 
