@@ -138,7 +138,7 @@ The installation for PHP Manager is complete, you can click **Close**.
 
 ## Step 6 - Install the Rewrite Module (rewrite_amd64_en-US)
 
-Now you have to install the Rewrite Module `(rewrite_amd64_en-US)` from the **osTicket-Installation-Files** folder.
+Now, you have to install the Rewrite Module `(rewrite_amd64_en-US)` from the **osTicket-Installation-Files** folder.
 
 - Click: `(rewrite_amd64_en-US)`
 - A prompt for Rewrite Module will pop up, just check the box **accept the terms in License Agreement** and hit **Install**.
@@ -151,14 +151,14 @@ The installation for IIS URL Rewrite Module is complete, you can click **Finish*
 
 ## Step 7 - Create the directory C:\PHP
 
-Now, we're going to create a seperate folder to install `PHP` and we'll create this folder on the `C:\` drive.
+Now, your going to create a seperate folder to install `PHP` and we'll create this folder on the `C:\` drive.
 
 - Right click on the file explorer icon and open a new tab.
 - Navigate to the `Windows (C:)` by clicking the drop-down on `This PC`.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/595ba6021ffa70b34ac362408c1ab5bb28a5363b/19.png>
 
-Next, we'll create a new folder in the `C:\` drive named `PHP`.
+Next, your going to create a new folder in the `C:\` drive named `PHP`.
 
 - Right click within the `C:\` drive and hover over **New**, then click **Folder**.
 - Name the new folder created `PHP`.
@@ -181,7 +181,12 @@ As you can see the files were successfully extracted into the **PHP** folder.
 
 ## Step 8 - Install VC_redist.x86 (Microsoft Visual C++ Redistributable (x86))
 
+Now, you have to install `Install VC_redist.x86` (Microsoft Visual C++ Redistributable (x86)) from the **osTicket-Installation-Files** folder.
 
+- Double click `Install VC_redist.x86`.
+- Check the box for **I agree the license term and conditons**, then click install.
+
+<img src=>
 
 
 
