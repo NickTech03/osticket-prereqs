@@ -233,11 +233,15 @@ Now, you have to install `mysql-5.5.62-win32` from the **osTicket-Installation-F
 
 - New root Password: `ROOT` **(All Capital Letter)**
 - Confirm: `ROOT` **(All Capital Letter)**
+- Click **Next**
 
 **This password is not ideal to use in the real world due to security safety, but for the sake of this demonstration and to keep things simple, you can use it**
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/f51f1ce3f0aea1e143483f4d881be8faccbcf4c9/34.png>
 
+- Click **Execute**.
+
+<img src=>
 
 
 
