@@ -163,7 +163,7 @@ Next, we'll create a new folder in the `C:\` drive named `PHP`.
 - Right click within the `C:\` drive and hover over **New**, then click **Folder**.
 - Name the new folder created `PHP`.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/e7d27610e1c7e78ddf9b06bfe23e13b9dd0aadea/20.png>
 
 
 
