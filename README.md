@@ -186,9 +186,11 @@ Now, you have to install `Install VC_redist.x86` (Microsoft Visual C++ Redistrib
 - Double click `Install VC_redist.x86`.
 - Check the box for **I agree the license term and conditons**, then click install.
 
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/7c764ad8d06dc7a977faa5a104f2301e3562971d/24.png>
+
+The installation for `Install VC_redist.x86` (Microsoft Visual C++ Redistributable (x86)) is complete, you can click **Close**.
+
 <img src=>
-
-
 
 
 
