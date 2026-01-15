@@ -171,6 +171,11 @@ Next, from the `osTicket Installation-Files` folder. We'll extract `php-7.3.8-nt
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/8b0c698a811d6cb78f9b80dac7e4820ce3567058/21.png>
 
+- A prompt will pop up and for the destination, you can type `C:\PHP` or click browse and navigate to `Windows (C:)` drive were the **PHP** folder is located and select the folder. You can click **Extract** to begin the process.
+
+<img src=>
+
+
 
 
 
