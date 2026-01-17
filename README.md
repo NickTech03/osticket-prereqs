@@ -249,6 +249,13 @@ The installation for `mysql-5.5.62-win32` is complete, you can click **Finish**.
 
 ## Step 10 - Open Internet Information Services (IIS) as an Admin & Register PHP from within IIS
 
+Next, we're going to open IIS as administrator.
+
+- In the search bar, type **IIS**. and you'll see `Internet Information Services (IIS) Manager`.
+- Click **Run as administrator**.
+
+<img src>
+
 
 
 
