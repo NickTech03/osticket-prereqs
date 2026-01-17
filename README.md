@@ -266,8 +266,13 @@ Once inside PHP Manager, click the link `Register new PHP Version`.
 
 A prompt will pop up and click the three dots.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/52a8bc535d282397f507cab8539cc5ba3c8bcb10/40.png>
 
+Now, we're going to browse for the excutable file which is located on the **C:\ drive** in the **PHP folder** that we created in **Step 7** and this file is called `php-cgi`.
+
+- Double click `php-cgi`.
+
+<img src=>
 
 
 
