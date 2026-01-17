@@ -299,7 +299,7 @@ Now, we're going to install osTicket.
 - Open the `osTicket-Installation-Files` folder located on your desktop.
 - Right click `osTicket-v1.15.8` and click **Extract All**.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/21f1843728c99a0a8acc246f234ee8ac40dd86a8/45.png>
 
 
 
