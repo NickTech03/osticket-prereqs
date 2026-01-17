@@ -258,8 +258,11 @@ Next, we're going to open IIS as administrator.
 
 Next, from within the IIS Manager. We're going to open `PHP Manager`.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/54c60c232827599016b6fb82bbb64c9c0d34676e/38.png>
 
+Once inside PHP Manager, click the link `Register new PHP Version`.
+
+<img src=>
 
 
 
