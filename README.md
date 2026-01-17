@@ -383,7 +383,10 @@ As you can see below the following extentions that were disabled are now enabled
 
 Now, go back to the osTicket Installer web page and refresh. You can see the extentions that we enabled are checked off and there should be only two extentions that have a red (X) next to them.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/a19ea33e0ccb93702c7e8f394f05832c3cfceaa5/59.png>
+
+## Step 12 - Rename ost-config.php
+
 
 
 
