@@ -377,9 +377,15 @@ Next, we're going to enable the extentions that had the red (X) next to it. We c
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/121fd598f8b8e81317df6f0b0f32b49d0b1a72ce/57.png>
 
-As you can see below the following extentions are now enabled.
+As you can see below the following extentions that were disabled are now enabled.
+
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/d2bff8354f29b282af9ba66411295406c652d581/58.png>
+
+Now, go back to the osTicket Installer web page and refresh. You can see the extentions that we enabled are checked off and there should be only two extentions that have a red (X) next to them.
 
 <img src=>
+
+
 
 
 
