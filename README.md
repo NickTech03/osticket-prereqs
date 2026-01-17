@@ -324,6 +324,12 @@ As you can see the `upload` folder is now in the `wwwroot` folder.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/b2873d83059d409e1b262d0c169f231b1f5b1c33/49.png>
 
+inside the `wwwroot` folder, we're going to rename the `upload` folder to `osTicket`.
+
+- Right click `upload` folder.
+- Rename: `osTicket` **(Rename it exactly how it is in the screenshot below)**.
+
+<img src=>
 
 
 
