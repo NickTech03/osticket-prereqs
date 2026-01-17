@@ -314,7 +314,7 @@ Next, inside the unzipped `osTicket-v1.15.8` folder. We're going to take the `up
 - Open a new file explorer.
 - Go to the `Windows (C:)` drive.
 - Double click `inetpub` file.
-- Double click `wwwroot`, this is the folder were the `upload` file will be moved too.
+- Double click `wwwroot`, this is the folder were the `upload` folder will be moved too.
 
 Now, we're going to drag the `upload` folder to the `wwwroot` folder.
 
