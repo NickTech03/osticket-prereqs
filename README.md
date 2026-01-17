@@ -254,7 +254,7 @@ Next, we're going to open IIS as administrator.
 - In the search bar, type **IIS**. and you'll see `Internet Information Services (IIS) Manager`.
 - Click **Run as administrator**.
 
-<img src>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/0e449e86046a87870185217683da6a037fcf9323/37.png>
 
 
 
