@@ -322,7 +322,7 @@ Now, we're going to drag the `upload` folder to the `wwwroot` folder.
 
 As you can see the `upload` folder is now in the `wwwroot` folder.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/b2873d83059d409e1b262d0c169f231b1f5b1c33/49.png>
 
 
 
