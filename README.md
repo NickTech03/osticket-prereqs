@@ -359,6 +359,11 @@ Once you click  `Browse *:80(http)`, the osTicket installer will open on your we
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/89acd7735ec931c6fa4173e3dedef49b43c3c852/54.png>
 
+Next, you'll notice some of the recommended extentions are not enabled which are the ones with the red (X). We will be going back to IIS Manager and enable these extentions.
+
+- Within the `osTicket Home`, open `PHP Manager`.
+
+<img src=>
 
 
 
