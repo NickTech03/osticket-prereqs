@@ -301,9 +301,14 @@ Now, we're going to install osTicket.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/cf39794d5943122aadd14024b8a8074e27d65b56/45.png>
 
-- Click **Extract**, we're going to unzip this file in the same `osTicket-Installation-Files` folder.
+Click **Extract**, we're going to unzip this file in the same `osTicket-Installation-Files` folder.
+
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/5d1c12e6d7e6129d0ddb149315c5bdff39e92b0a/46.png>
+
+As you can see the unzipped file is in the folder.
 
 <img src=>
+
 
 
 
