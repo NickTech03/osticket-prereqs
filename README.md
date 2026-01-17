@@ -256,8 +256,9 @@ Next, we're going to open IIS as administrator.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/0e449e86046a87870185217683da6a037fcf9323/37.png>
 
+Next, from within the IIS Manager. We're going to open `PHP Manager`.
 
-
+<img src=>
 
 
 
