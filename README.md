@@ -363,7 +363,12 @@ Next, you'll notice some of the recommended extentions are not enabled which are
 
 - Within the `osTicket Home`, open `PHP Manager`.
 
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/1a72d4647ad98d7b671d0490885c935ac8ff5f4b/55.png>
+
+Click the link **Enable or disable an extention**.
+
 <img src=>
+
 
 
 
