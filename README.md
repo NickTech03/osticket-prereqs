@@ -329,7 +329,7 @@ inside the `wwwroot` folder, we're going to rename the `upload` folder to `osTic
 - Right click `upload` folder.
 - Rename: `osTicket` **(Rename it exactly how it is in the screenshot below)**.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/2471fdb656f3dbddf9701442aab6b11851d7e6ee/50.png>
 
 
 
