@@ -357,7 +357,7 @@ Next, we're going to open the osTicket installer.
 
 Once you click  `Browse *:80(http)`, the osTicket installer will open on your web browser. **(The below screenshot is what it should look like)**.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/89acd7735ec931c6fa4173e3dedef49b43c3c852/54.png>
 
 
 
