@@ -343,7 +343,7 @@ IIS is stopped now and you can go ahead and start it again.
 - Right click `osTicket-VM` again.
 - Click **Start**.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/01ede261b4b0fad90189f2bf77d2fa25da697c52/52.png>
 
 
 
