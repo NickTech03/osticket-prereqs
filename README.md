@@ -318,7 +318,7 @@ Next, inside the unzipped `osTicket-v1.15.8` folder. We're going to take the `up
 
 Now, we're going to drag the `upload` folder to the `wwwroot` folder.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/8953d1d2c2133f881cd0dcd551c49a4e5431fa18/48.png>
 
 
 
