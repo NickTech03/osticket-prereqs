@@ -272,6 +272,10 @@ Now, we're going to browse for the excutable file which is located on the **C:\ 
 
 - Double click `php-cgi`.
 
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/68b6fbce023c2111df0975b3853e19fb1155130d/41.png>
+
+As you can see the file is there and you can click **OK**.
+
 <img src=>
 
 
