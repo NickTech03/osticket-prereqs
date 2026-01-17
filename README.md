@@ -283,7 +283,17 @@ Next, you have to reload the IIS to make sure the web server will load correctly
 - Right click `osTicket-VM`.
 - Click **Stop**.
 
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/335501ca5afcbc457e6e3747904d676dba636c51/43.png>
+
+IIS is stopped now and you can go ahead and start it again.
+
+- Right click `osTicket-VM` again.
+- Click **Start**.
+
 <img src=>
+
+
+
 
 
 
