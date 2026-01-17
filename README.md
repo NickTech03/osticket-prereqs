@@ -345,6 +345,17 @@ IIS is stopped now and you can go ahead and start it again.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/01ede261b4b0fad90189f2bf77d2fa25da697c52/52.png>
 
+Next, we're going to open the osTicket site.
+
+- Click the drop-down next to `osTicket-Vm`.
+- Click the drop-down next to `Sites`.
+- Click the drop-down next to `Default Web Site`.
+- Click on `osTicket`.
+- Click `Browse *:80(http)` on the right side under **Manage Folder** to open the site.
+
+<img src=>
+
+
 
 
 
