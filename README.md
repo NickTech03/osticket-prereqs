@@ -290,9 +290,16 @@ IIS is stopped now and you can go ahead and start it again.
 - Right click `osTicket-VM` again.
 - Click **Start**.
 
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/f206a4f52bcc500fb2eaf9cfa28a1b41b40af2ab/44.png>
+
+## Step 11 - Install osTicket-v1.15.8
+
+Now, we're going to install osTicket.
+
+- Open the `osTicket-Installation-Files` folder located on your desktop.
+- Right click `osTicket-v1.15.8` and click **Extract All**.
+
 <img src=>
-
-
 
 
 
