@@ -369,6 +369,15 @@ Click the link **Enable or disable an extention**.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/e650e8344ba6cfc64ff6551ea0398a1489272315/56.png>
 
+Next, we're going to enable the extentions that had the red (X) next to it. We can do this by locating the below extentions that are disabled and right click on each of them and click **Enable**. You can also click **Enable** on the right side of the screen under **Actions**.
+
+- `php_imap.dll`
+- `php_intl.dll`
+- `php_opcache.dll`
+
+<img src=>
+
+
 
 
 
