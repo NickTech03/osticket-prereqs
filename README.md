@@ -283,6 +283,7 @@ Next, you have to reload the IIS to make sure the web server will load correctly
 - Right click `osTicket-VM`.
 - Click **Stop**.
 
+<img src=>
 
 
 
