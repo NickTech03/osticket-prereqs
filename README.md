@@ -276,7 +276,12 @@ Now, we're going to browse for the excutable file which is located on the **C:\ 
 
 As you can see the file is there and you can click **OK**.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/9783fe35f66e6513041f7736d70f367d5861a13e/42.png>
+
+Next, you have to reload the IIS to make sure the web server will load correctly and all the changes that were made take effect.
+
+- Right click `osTicket-VM`.
+- Click **Stop**.
 
 
 
