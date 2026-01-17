@@ -375,8 +375,11 @@ Next, we're going to enable the extentions that had the red (X) next to it. We c
 - `php_intl.dll`
 - `php_opcache.dll`
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/121fd598f8b8e81317df6f0b0f32b49d0b1a72ce/57.png>
 
+As you can see below the following extentions are now enabled.
+
+<img src=>
 
 
 
