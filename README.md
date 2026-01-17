@@ -278,7 +278,7 @@ As you can see the file is there and you can click **OK**.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/9783fe35f66e6513041f7736d70f367d5861a13e/42.png>
 
-Next, you have to reload the IIS to make sure the web server will load correctly and all the changes that were made take effect.
+Next, you have to reload the IIS to make sure the web server will load correctly and all the changes that were made take in effect.
 
 - Right click `osTicket-VM`.
 - Click **Stop**.
@@ -324,21 +324,26 @@ As you can see the `upload` folder is now in the `wwwroot` folder.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/b2873d83059d409e1b262d0c169f231b1f5b1c33/49.png>
 
-inside the `wwwroot` folder, we're going to rename the `upload` folder to `osTicket`.
+Inside the `wwwroot` folder, we're going to rename the `upload` folder to `osTicket`.
 
 - Right click `upload` folder.
 - Rename: `osTicket` **(Rename it exactly how it is in the screenshot below)**.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/2471fdb656f3dbddf9701442aab6b11851d7e6ee/50.png>
 
+Now, we're going to open IIS Manager and reload IIS by doing the stop & start actions again like we did previously to ensure all the changes that were made take in effect.
 
+- Right click `osTicket-VM`.
+- Click **Stop**.
 
+<img src=>
 
+IIS is stopped now and you can go ahead and start it again.
 
+- Right click `osTicket-VM` again.
+- Click **Start**.
 
-
-
-
+<img src=>
 
 
 
