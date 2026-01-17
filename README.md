@@ -307,7 +307,21 @@ Click **Extract**, we're going to unzip this file in the same `osTicket-Installa
 
 As you can see the unzipped file is in the folder.
 
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/ff027ca252d9f0dfad4b01b922240d52bfa1d6b2/47.png>
+
+Next, inside the unzipped `osTicket-v1.15.8` folder. We're going to take the `upload` folder and move it to a new folder on the **Windows (C:)** drive called `www (c:\inetpub\wwwroot)`.
+
+- Open a new file explorer.
+- Go to the `Windows (C:)` drive.
+- Double click `inetpub` file.
+- Double click `wwwroot`, this is the folder were the `upload` file will be moved too.
+
+Now, we're going to drag the `upload` folder to the `wwwroot` folder.
+
 <img src=>
+
+
+
 
 
 
