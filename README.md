@@ -336,7 +336,7 @@ Now, we're going to open IIS Manager and reload IIS by doing the stop & start ac
 - Right click `osTicket-VM`.
 - Click **Stop**.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/26a58e3ad5fa001bde8a194dd5655d17d4c2c4b0/51.png>
 
 IIS is stopped now and you can go ahead and start it again.
 
