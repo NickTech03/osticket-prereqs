@@ -367,7 +367,7 @@ Next, you'll notice some of the recommended extentions are not enabled which are
 
 Click the link **Enable or disable an extention**.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/e650e8344ba6cfc64ff6551ea0398a1489272315/56.png>
 
 
 
