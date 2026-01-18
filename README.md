@@ -403,7 +403,7 @@ One you've found the PHP File `ost-sampleconfig.php`, we're going to rename it e
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/ee67bd7a7bd2015015c85191e77fad302d019f3c/61.png>
 
-## Step 13 -  Assigning permissions to the ost-config.php file.
+## Step 13 -  Assigning permissions to the ost-config.php file
 
 Now, we're going to assign permissions to `ost-congif-php` file so that **osTicket** can make changes to the file on the backend.
 
@@ -441,7 +441,14 @@ As you can see in the `Advanced Security Settings for include` prompt under `Per
 
 Click `OK` as well in the `include Properties` prompt.
 
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/bda1a9fb8fca9cffeef2dc768d506665134811f7/68.png>
+
+## Step 14 -  Continue setting up osTicket in the browser
+
+Now, you can go back to the `osTicket Installer` on your browser and click `Continue`.
+
 <img src=>
+
 
 
 
