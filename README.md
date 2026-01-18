@@ -500,7 +500,7 @@ Next, we will use HeidiSQL to connect to our database server and create a new da
 Once you click on `New`, and unnamed session prompt will appear and this is were we enter the username & password that was created when setting up the `MySQL Server` on `Step 9`.
 
 User: **(Already filled out - root)**
-Password: ROOT **(All Capital Letters)**
+Password: `ROOT` **(All Capital Letters)**
 
 Then click on `Open` to proceed, this will open a connection to our database.
 
@@ -523,6 +523,15 @@ As you can see, the database is created. However, there is nothing in it, but, t
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/49b9c8140dc6054701485557315ff30991ba7c7a/80.png>
 
 ## Step 16 - Continue setting up osTicket in the browser and complete installtion (Database Settings section)
+
+Now, we can enter the credentials that we made in `HeidiSQL` in `Step 15` into the `Database Settings` section.
+
+- MySQL Database: `osTicket`.
+- MySQL Username: `root`.
+- MySQL Password: `ROOT`. **(All Capital Letters)**
+- Then click on `Install Now`.
+
+<img src=>
 
 
 
