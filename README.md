@@ -502,10 +502,15 @@ Once you click on `New`, and unnamed session prompt will appear and this is were
 User: **(Already filled out - root)**
 Password: ROOT **(All Capital Letters)**
 
-Then click on `Open` to proceed.
+Then click on `Open` to proceed, this will open a connection to our database.
+
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/e5239a04dc4c8e24a2c7fd7a9beefa9d333cc963/77.png>
+
+- Next, right click on `Unnamed`.
+- Hover over `Create new`.
+- Then click on `Database`.
 
 <img src=>
-
 
 
 
