@@ -516,7 +516,7 @@ Next, a `Create database` prompt will pop up and for the `Name`, you will put `o
 
 Then click `OK`.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/b131b3024067891cd7eabfefdb76d42f92af0c7a/79.png>
 
 
 
