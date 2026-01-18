@@ -455,6 +455,17 @@ System Settings:
 - Helpdesk Name: You can name it whatever you want, I put `Nick's Help Desk`.
 - Default Email: You can put whatever you want, I put `nicholas@gmail.com`.
 
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/d456985746574a175ec42e071620d3795c3fac39/70.png>
+
+Admin User:
+- First Name: `Your name`.
+- Last Name: `Your last name`.
+- Email Address: This needs to be a different email address than the one you put in `System Settings`. I put `nicholas205@gmail.com`.
+- Username: I used `adminuser` **(You can use the same to keep things simple)**.
+- Password: I used `Password1` **(You can use the same to keep things simple)**.
+
+like I mentioned on **Step 1** to keep any passwords & usernames that you've created saved on a password manager app/software. We'll be using these for the other labs following this one.
+
 <img src=>
 
 
