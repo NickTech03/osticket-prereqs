@@ -437,8 +437,11 @@ As you can see in the `Advanced Security Settings for include` prompt under `Per
 - Click `Apply`.
 - Then click `OK`.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/9db2e837817620718c3968e279cb7cce45c8bfa2/67.png>
 
+Click `OK` as well in the `include Properties` prompt.
+
+<img src=>
 
 
 
