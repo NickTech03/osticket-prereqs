@@ -447,6 +447,14 @@ Click `OK` as well in the `include Properties` prompt.
 
 Now, you can go back to the `osTicket Installer` on your browser and click `Continue`.
 
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/d2b2028a7a4b47988630c36eaa236483663b394c/69.png>
+
+Next, you can see that we're on the `osTicket Basic Installation` page and there is some sections that you need to fill out. We'll start off with the `System Settings` and `Admin User` then move onto `Database Settings`, were you will have to do further installtion and setup before you can enter details for this section.
+
+System Settings:
+- Helpdesk Name: You can name it whatever you want, I put `Nick's Help Desk`.
+- Default Email: You can put whatever you want, I put `nicholas@gmail.com`.
+
 <img src=>
 
 
