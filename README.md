@@ -387,6 +387,17 @@ Now, go back to the osTicket Installer web page and refresh. You can see the ext
 
 ## Step 12 - Rename ost-config.php
 
+Now, we're going to rename a file on the Windows (C:) drive that osTicket uses for it's configuration.
+
+- Open file explorer.
+- Click on `This PC` then ` Windows (C:)`.
+- Double click on `inetpub` folder.
+- Double click on `wwwroot` folder.
+- Double click on `osTicket` folder.
+- Double Click on `include` folder.
+- Find the PHP File that is named `ost-sampleconfig.php`.
+
+<img src=>
 
 
 
