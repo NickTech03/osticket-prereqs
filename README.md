@@ -430,8 +430,14 @@ Once inside the `Select User or Group` prompt, were it says `Enter the object na
 
 Now, check the box next to `Full control`, then click `OK`.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/0ac65f225ebc22448394e4a9aacd38117a0b82e7/66.png>
 
+As you can see in the `Advanced Security Settings for include` prompt under `Permission entries`. **Everyone** now has **Full Control**.
+
+- Click `Apply`.
+- Then click `OK`.
+
+<img src=>
 
 
 
