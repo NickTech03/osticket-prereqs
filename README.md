@@ -489,8 +489,13 @@ Before we continue, we need to configure the database so we can fill in the cred
 
 For this next prompt just click `Skip`.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/b89e1700ed62e78dff29df5d627fc3fc14d0c4ff/75.png>
 
+Next, we will use HeidiSQL to connect to our database server and create a new database for osTicket. Once that is set up, we can enter the correct details into the `Database Settings` section.
+
+- On this prompt, click on `New` at the bottom.
+
+<img src=>
 
 
 
