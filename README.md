@@ -410,6 +410,7 @@ Now, we're going to assign permissions to `ost-congif-php` file so that **osTick
 - Right click on the `ost-congif-php` file.
 - CLick on `Properties`.
 - Within the `Properties` prompt click on `Security`.
+- Then click on `Advanced`.
 
 <img src=>
 
