@@ -518,6 +518,9 @@ Then click `OK`.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/b131b3024067891cd7eabfefdb76d42f92af0c7a/79.png>
 
+As you can see, the database is created. However, there is nothing in it, but, the actual installation that is happening in the browser is going to make use of this database and put stuff in there.
+
+<img src=>
 
 
 
