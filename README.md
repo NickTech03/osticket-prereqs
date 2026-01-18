@@ -485,6 +485,10 @@ Before we continue, we need to configure the database so we can fill in the cred
 
 - For this next prompt, make sure `Launch HeidiSQL` is checked off and just click `Finish`.
 
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/df6b5b94aceaa4654d24338b3d62220ed0c9ed5a/74.png>
+
+For this next prompt just click `Skip`.
+
 <img src=>
 
 
