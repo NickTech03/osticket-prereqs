@@ -531,6 +531,12 @@ Now, we can enter the credentials that we made in `HeidiSQL` in `Step 15` into t
 - MySQL Password: `ROOT`. **(All Capital Letters)**
 - Then click on `Install Now`.
 
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/99ae107c9454f8ecd5f0c88884328fbb26e41f98/81.png>
+
+## Step 17 - osTicket is successfully installed and confirm validation.
+
+**Congratulations!!!** you've successfully installed osTicket, this concludes PART #1 of the osTicket lab.
+
 <img src=>
 
 
