@@ -510,6 +510,12 @@ Then click on `Open` to proceed, this will open a connection to our database.
 - Hover over `Create new`.
 - Then click on `Database`.
 
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/a9878ea2e7ca202948bf9e5ca6b476ecde323afc/78.png>
+
+Next, a `Create database` prompt will pop up and for the `Name`, you will put `osTicket`. **(Enter that name exactly how I have it)**.
+
+Then click `OK`.
+
 <img src=>
 
 
