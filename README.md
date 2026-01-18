@@ -412,7 +412,13 @@ Now, we're going to assign permissions to `ost-congif-php` file so that **osTick
 - Within the `Properties` prompt click on `Security`.
 - Then click on `Advanced`.
 
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/56e9317d322db4ae1551314f0d9ae23252a9c6be/62.png>
+
+Once inside the `Advanced Security Settings for include` prompt, click on `Disable inheritance` then click on `Remove all inherited permissions from this object`. By doing this you'll be removing all the current permissions on this file.
+
 <img src=>
+
+
 
 
 
