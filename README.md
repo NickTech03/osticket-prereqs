@@ -466,7 +466,10 @@ Admin User:
 
 like I mentioned on **Step 1** to keep any passwords & usernames that you've created saved on a password manager app/software. We'll be using these for the other labs following this one.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/1461325fc5205e802d332b638eba5cb10db0f09b/71.png>
+
+## Step 15 -  Install HeidiSQL to Setup the Database Settings
+
 
 
 
