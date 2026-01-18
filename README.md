@@ -426,8 +426,11 @@ Once inside the `Select User or Group` prompt, were it says `Enter the object na
 
 **Please note that this is not ideal for real world use, but to keep this lab simple you, this is fine to put.**
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/432d2b390173528d1d39639a626b81caa91a4b78/65.png>
 
+Now, check the box next to `Full control`, then click `OK`.
+
+<img src=>
 
 
 
