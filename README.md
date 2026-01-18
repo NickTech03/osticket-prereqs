@@ -401,7 +401,7 @@ Now, we're going to rename a file on the Windows (C:) drive that osTicket uses f
 
 One you've found the PHP File `ost-sampleconfig.php`, we're going to rename it exactly like this `ost-config.php`.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/ee67bd7a7bd2015015c85191e77fad302d019f3c/61.png>
 
 
 
