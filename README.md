@@ -470,6 +470,15 @@ like I mentioned on **Step 1** to keep any passwords & usernames that you've cre
 
 ## Step 15 -  Install HeidiSQL to Setup the Database Settings
 
+Before we continue, we need to configure the database so we can fill in the credentials in the Database Settings section. Although we have already installed the database application on the backend, we still need to create a new database specifically for osTicket. We will use `HeidiSQL` to complete this setup.
+
+- Go back to the `osTicket-Installation-Files` folder on your desktop.
+- Double click on `HeidiSQL_12.3.0.6589_Setup`.
+- Check `I accept the agreement`.
+- Keep clicking next till you get to the prompt with `Install` at the bottom.
+
+<img src=>
+
 
 
 
