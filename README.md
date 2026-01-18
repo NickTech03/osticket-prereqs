@@ -481,8 +481,11 @@ Before we continue, we need to configure the database so we can fill in the cred
 
 - Once you've gotten to the `Read to Install` prompt, click `Install`.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/82843f266884ab3d0ae82d2412642ba16549d846/73.png>
 
+- For this next prompt, make sure `Launch HeidiSQL` is checked off and just click `Finish`.
+
+<img src=>
 
 
 
