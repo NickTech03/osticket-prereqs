@@ -420,8 +420,13 @@ Once inside the `Advanced Security Settings for include` prompt, click on `Disab
 
 As you can see there are no permissions so next, click on `Add` then inside the `Permission Entry for include` prompt, click on `Select a principal`.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/8d642878719309be33e70f2c51cebeec925a6e58/64.png>
 
+Once inside the `Select User or Group` prompt, were it says `Enter the object name to select`. type `Everyone` then click on `Check Names` and you'll noticed that it worked when the word is **underlined**. Then click on `OK`.
+
+**Please note that this is not ideal for real world use, but to keep this lab simple you, this is fine to put.**
+
+<img src=>
 
 
 
