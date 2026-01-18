@@ -477,8 +477,11 @@ Before we continue, we need to configure the database so we can fill in the cred
 - Check `I accept the agreement`.
 - Keep clicking next till you get to the prompt with `Install` at the bottom.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/2946c2e54be2ae1082eed3d94544bb8e7e96c582/72.png>
 
+- Once you've gotten to the `Read to Install` prompt, click `Install`.
+
+<img src=>
 
 
 
