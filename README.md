@@ -495,8 +495,16 @@ Next, we will use HeidiSQL to connect to our database server and create a new da
 
 - On this prompt, click on `New` at the bottom.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/281b1e149be6e5c503fd74dd1aa8d9f22dab4156/76.png>
 
+Once you click on `New`, and unnamed session prompt will appear and this is were we enter the username & password that was created when setting up the `MySQL Server` on `Step 9`.
+
+User: **(Already filled out - root)**
+Password: ROOT **(All Capital Letters)**
+
+Then click on `Open` to proceed.
+
+<img src=>
 
 
 
