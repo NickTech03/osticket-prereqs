@@ -543,11 +543,11 @@ Before we conclude Part #1 of the osTicket lab, let's validate two links that yo
 
 Your help desk login page as an admin: 
 
-<img src=>
-
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/db822751ea70dc63a7d92e4643d60080851b986c/83.png>
 
 End Users osTicket URL:
 
+<img src=>
 
 
 
