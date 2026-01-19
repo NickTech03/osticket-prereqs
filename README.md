@@ -541,11 +541,11 @@ Now, we can enter the credentials that we made in `HeidiSQL` in `Step 15` into t
 
 Before we conclude Part #1 of the osTicket lab, let's validate two links that you'll be using in the upcoming parts.
 
-Your help desk login page as an admin: 
+Your help desk login page as an admin: http://localhost/osTicket/scp/login.php
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/db822751ea70dc63a7d92e4643d60080851b986c/83.png>
 
-End Users osTicket URL:
+End Users osTicket URL: http://localhost/osTicket/
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/b2e96fc4ebe96e903ef2adae217b6f823e751d69/84.png>
 
