@@ -537,7 +537,7 @@ Now, we can enter the credentials that we made in `HeidiSQL` in `Step 15` into t
 
 **Congratulations!!!** you've successfully installed osTicket, this concludes PART #1 of the osTicket lab.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/5b1331ad7acb68a7238ead364b9d08461713ce84/82.png>
 
 
 
