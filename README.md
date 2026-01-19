@@ -549,7 +549,9 @@ End Users osTicket URL: http://localhost/osTicket/
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/b2e96fc4ebe96e903ef2adae217b6f823e751d69/84.png>
 
+## Conclusion 
 
+With both links and osTicket installed and operating, this concludes part #1 of the osTicket lab.
 
 
 
