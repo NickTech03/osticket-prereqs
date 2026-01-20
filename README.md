@@ -10,7 +10,7 @@ osTicket is an open-source help desk platform designed to centralize and streaml
 Ticketing systems help IT teams organize and manage support requests in one central place. Instead of tracking problems through emails, phone calls, or messages, every issue is recorded as a ticket that can be assigned, updated, and monitored.
 This makes sure no requests are missed, allows urgent problems to be fixed first, and helps IT staff work more efficiently. Ticketing systems also keep a history of all support activity, which improves accountability, security, and overall service quality.
 </p>
-This is the **FIRST** part of a three part osTicket Lab and in this repository, we'll go over a 
+This is the **First** part of a four-part osTicket lab. In this repository, we will walk through the prerequisites, installation, and validation of osTicket step by step. You will learn how to deploy and configure osTicket on a Windows 11 Azure virtual machine by setting up a web server (IIS), installing PHP and a MySQL database, and enabling required features like IMAP. After downloading the osTicket files, updating a few configuration settings, adjusting file permissions, and creating a database using HeidiSQL, we will use an osTicket web-based installer to complete the setup and launch a working helpdesk portal.
 
 <h2>Environments and Technologies Used</h2>
 
