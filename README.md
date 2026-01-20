@@ -24,11 +24,13 @@ This is the **First** part of a four-part osTicket lab. In this repository, we w
 
 <h2>Environments and Technologies Used</h2>
 
-
+- Microsoft Azure (Virtual Machines / Compute)
+- Remote Desktop Protocol (RDP)
+- 
 
 <h2>Operating Systems Used </h2>
 
-<h2>List of Prerequisites</h2>
+
 
 # Installation Steps/Walkthrough
 
