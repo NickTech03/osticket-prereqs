@@ -17,12 +17,14 @@ This makes sure no requests are missed, allows urgent problems to be fixed first
 This is the **First** part of a four-part osTicket lab. In this repository, we will walk through the prerequisites, installation, and validation of osTicket step by step. You will learn how to deploy and configure osTicket on a Windows 11 Azure virtual machine by setting up a web server (IIS), installing PHP and a MySQL database, and turning on important features like IMAP. After downloading the osTicket files, updating a few configuration settings, adjusting file permissions, and creating a database using HeidiSQL, we will use an osTicket web-based installer to complete the setup and launch a working helpdesk portal.
 </p>
 
-- **osTicket:** `Prerequisites, Installation, and Validation`
+- **osTicket: Prerequisites, Installation, and Validation**
 - [osTicket: Post-Install Configuration](https://github.com/NickTech03/osTicket-Lab-Post-Install-Configuration)
 - [osTicket: Ticket Lifecycle Workflow (Examples)](https://github.com/NickTech03/osTicket-Lab-Ticket-Lifecycle-Workflow-Examples)
 - [osTicket: Using ChatGPT to Simulate Support Tickets](https://github.com/NickTech03/osTicket-Lab-Using-ChatGPT-to-Simulate-Support-Tickets)
 
 <h2>Environments and Technologies Used</h2>
+
+
 
 <h2>Operating Systems Used </h2>
 
