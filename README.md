@@ -270,7 +270,7 @@ Now, you have to install **MySQL (mysql-5.5.62-win32)** from the **osTicket-Inst
 
 - Click `Next`
 
-<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/2454ddfeed54ba5b8be9c4eec1e63525c18e15bb/30.png>
+<img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/44e56ca1e935e81f36e1d17713ba03953fe1ebe0/31.png>
 
 - Select `Standard Configuration`, then click `Next`.
 
@@ -282,34 +282,34 @@ Now, you have to install **MySQL (mysql-5.5.62-win32)** from the **osTicket-Inst
 
 This next step is really important and like I mentioned on **Step 1** to keep any passwords & usernames that you've created saved on a password manager app/software.
 
-- New root Password: `ROOT` **(All Capital Letters)**
+- New root password: `ROOT` **(All Capital Letters)**
 - Confirm: `ROOT` **(All Capital Letters)**
-- Click `Next`
+- Click: `Next`
 
-**This password is not ideal to use in the real world due to security safety, but for the sake of this demonstration and to keep things simple, you can use it**
+**This password is not ideal to use in the real world due to security safety, but for the sake of this demonstration and to keep things simple, you can use it.**
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/f51f1ce3f0aea1e143483f4d881be8faccbcf4c9/34.png>
 
-- Click `Execute`.
+- Click `Execute`
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/709dc0091d37fdb8dbb870d554f1ffc4849dd058/35.png>
 
 The installation for **MySQL (mysql-5.5.62-win32)** is complete, you can click `Finish`.
 
-**MySQL (mysql-5.5.62-win32):** MySQL is a database system that stores all of osTicket’s information, such as tickets, users, and settings. In this project, osTicket uses MySQL as its backend database to save and manage data.
-
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/0c70dbb97abd8f5d9c8fc9519278e1e8b9f78cbc/36.png>
+
+**MySQL (mysql-5.5.62-win32):** MySQL is a database system that stores all of osTicket’s information, such as tickets, users, and settings. In this project, osTicket uses MySQL as its backend database to save and manage data.
 
 ## Step 10 - Open Internet Information Services (IIS) as an Admin & Register PHP from within IIS
 
-Next, we're going to open IIS as administrator.
+Next, we're going to open **IIS** as administrator.
 
-- In the search bar, type `IIS`. and you'll see `Internet Information Services (IIS) Manager`.
-- Click: `Run as administrator`.
+- In the search bar, type `IIS` and you'll see `Internet Information Services (IIS) Manager`.
+- Click: `Run as administrator`
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/0e449e86046a87870185217683da6a037fcf9323/37.png>
 
-Next, from within the IIS Manager. We're going to open `PHP Manager`.
+Next, from within the IIS Manager, we're going to open `PHP Manager`.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/54c60c232827599016b6fb82bbb64c9c0d34676e/38.png>
 
@@ -323,7 +323,7 @@ A prompt will pop up and click the `three dots`.
 
 Now, we're going to browse for the excutable file which is located on the **Windows C:\ drive** in the **PHP folder** that we created in **Step 7** and this file is called **php-cgi**.
 
-- Double click: `php-cgi`.
+- Double click: `php-cgi`
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/68b6fbce023c2111df0975b3853e19fb1155130d/41.png>
 
@@ -333,15 +333,15 @@ As you can see the file is there and you can click `OK`.
 
 Next, you have to reload the IIS to make sure the web server will load correctly and all the changes that were made take in effect.
 
-- Right click `osTicket-VM`.
-- Click: `Stop`.
-
+- Right click: `osTicket-VM`
+- Click: `Stop`
+  
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/335501ca5afcbc457e6e3747904d676dba636c51/43.png>
 
 IIS is stopped now and you can go ahead and start it again.
 
 - Right click: `osTicket-VM` again.
-- Click: `Start`.
+- Click: `Start`
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/f206a4f52bcc500fb2eaf9cfa28a1b41b40af2ab/44.png>
 
@@ -368,8 +368,8 @@ Next, inside the unzipped `osTicket-v1.15.8` folder. We're going to take the `up
 
 - Open a new file explorer.
 - Go to the `Windows (C:)` drive.
-- Double click `inetpub` file.
-- Double click `wwwroot`, this is the folder were the `upload` folder will be moved too.
+- Double click: `inetpub` file.
+- Double click: `wwwroot`, this is the folder were the `upload` folder will be moved too.
 
 Now, we're going to drag the `upload` folder to the `wwwroot` folder.
 
@@ -381,22 +381,22 @@ As you can see the `upload` folder is now in the `wwwroot` folder.
 
 Inside the `wwwroot` folder, we're going to rename the `upload` folder to `osTicket`.
 
-- Right click `upload` folder.
+- Right click: `upload` folder.
 - Rename: `osTicket` **(Rename it exactly how it is in the screenshot below)**.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/2471fdb656f3dbddf9701442aab6b11851d7e6ee/50.png>
 
 Now, we're going to open IIS Manager and reload IIS by doing the stop & start actions again like we did previously to ensure all the changes that were made take in effect.
 
-- Right click `osTicket-VM`.
-- Click **Stop**.
+- Right click: `osTicket-VM`
+- Click: `Stop`
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/26a58e3ad5fa001bde8a194dd5655d17d4c2c4b0/51.png>
 
 IIS is stopped now and you can go ahead and start it again.
 
-- Right click `osTicket-VM` again.
-- Click **Start**.
+- Right click: `osTicket-VM` again.
+- Click: `Start`
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/01ede261b4b0fad90189f2bf77d2fa25da697c52/52.png>
 
@@ -406,7 +406,7 @@ Next, we're going to open the osTicket installer.
 - Click the drop-down next to `Sites`.
 - Click the drop-down next to `Default Web Site`.
 - Click on `osTicket`.
-- Click `Browse *:80(http)` on the right side under **Manage Folder** to open the installer.
+- Click: `Browse *:80(http)` on the right side under `Manage Folder` to open the installer.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/de48b0edca3591e5fb2d5177df17d193a11df742/53.png>
 
@@ -420,11 +420,11 @@ Next, you'll notice some of the recommended extentions are not enabled which are
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/1a72d4647ad98d7b671d0490885c935ac8ff5f4b/55.png>
 
-Click the link **Enable or disable an extention**.
+Click the link `Enable or disable an extention`.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/e650e8344ba6cfc64ff6551ea0398a1489272315/56.png>
 
-Next, we're going to enable the extentions that had the red (X) next to it. We can do this by locating the below extentions that are disabled and right click on each of them and click **Enable**. You can also click **Enable** on the right side of the screen under **Actions**.
+Next, we're going to enable the extentions that had the red (X) next to it. We can do this by locating the below extentions that are disabled and right click on each of them and click `Enable`. You can also click `Enable` on the right side of the screen under `Actions`.
 
 - `php_imap.dll`
 - `php_intl.dll`
@@ -439,6 +439,8 @@ As you can see below the following extentions that were disabled are now enabled
 Now, go back to the osTicket Installer web page and refresh. You can see the extentions that we enabled are checked off and there should be only two extentions that have a red (X) next to them.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/a19ea33e0ccb93702c7e8f394f05832c3cfceaa5/59.png>
+
+This part makes the osTicket application files available to the web server so you can open a browser, run the setup page, and begin installing the helpdesk system.
 
 ## Step 12 - Rename ost-config.php
 
