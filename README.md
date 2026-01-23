@@ -14,7 +14,8 @@ This makes sure no requests are missed, allows urgent problems to be fixed first
 
 </p>
 
-This is the **First** part of a four-part osTicket lab. In this repository, we will walk through the prerequisites, installation, and validation of osTicket step by step. You will learn how to deploy and configure osTicket on a Windows 11 Azure virtual machine by setting up a web server (IIS), installing PHP and a MySQL database, and turning on important features like IMAP. After downloading the osTicket files, updating a few configuration settings, adjusting file permissions, and creating a database using HeidiSQL, we will use an osTicket web-based installer to complete the setup and launch a working helpdesk portal.
+This is the **FIRST** part of a four-part osTicket lab. In this section, we go step by step through the prerequisites, installation, and validation of osTicket. You’ll set up osTicket on a Windows 11 Azure virtual machine by installing IIS (the web server), PHP, and a MySQL database, plus enabling features like IMAP for email tickets. After downloading the osTicket files, you’ll update the config, set the correct permissions, create a database in HeidiSQL, and finish everything using the osTicket web installer to launch a working helpdesk portal.
+
 </p>
 
 - **osTicket: Prerequisites, Installation, and Validation**
@@ -63,7 +64,7 @@ Start by creating a resource group, you can make one while inside the creation o
 
 - Image: `Windows 11 Pro, version 25H2 - x64 Gen2`
 
-(For this demonstration, I went with the following image. I've also used `Windows 10 Enterprise N, version 22H2 - x64 Gen2` which works fine as well. I prefer doing this lab on Windows 11, as modern day computers are using this Operating Systems.)
+(For this demonstration, I went with the following image. I've also used `Windows 10 Enterprise N, version 22H2 - x64 Gen2` which works fine as well. I prefer doing this lab on Windows 11, as modern day computers are using this operating system.)
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/410bce54b67e098d20e800ed1df3fe7142c97781/2.png>
 
@@ -90,7 +91,7 @@ We can move onto selecting the VM size and make a username & password.
 
 We can move onto finalizing the creation of the VM. 
 
-As you can see the validation is passed. All you have to do is click **Create** and the VM is ready to go!
+As you can see the validation is passed. All you have to do is click `Create` and the VM is ready to go!
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/e02dd4ea5d96cc9e3783ef5a45d532b595345aa1/4.png>
 
@@ -100,22 +101,22 @@ As you can see the validation is passed. All you have to do is click **Create** 
 
 Now we can go ahead an log into the VM that we created using **Remote Desktop Connections (RDP)**.
 
-We'll start by copying the **Public IP Address** which is located on the VM home page.
+We'll start by copying the `Public IP Address` which is located on the VM home page.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/948517611721921761a1ad79195540fad104d94b/5.png>
 
-Next, we'll open Remote Desktop and paste the public IP address to login into the VM and click **Connect**. (for the username section, use the same username used when creating the VM.)
+Next, we'll open Remote Desktop and paste the public IP address to login into the VM and click `Connect`. (for the username section, use the same username used when creating the VM.)
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/2e1dd38c45437b835310bfa32066f2f71fa89373/6.png>
 
-Now login with password you used to created the VM then click **OK**.
+Next, login with password you used to create the VM then click `OK`.
 
  - Username: `labuser`
  - Password: `osTicketPassword1`
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/da19a9cd86e180cfad4ef59e0bcf9809bc0f84f1/7.png>
 
-This prompt will pop up, click **Yes** to continue.
+This prompt will pop up, click `Yes` to continue.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/3547c7e167fc0d0784eed3f187e979218833d381/8.png>
 
@@ -136,7 +137,7 @@ Once extracted onto the desktop you should have a folder containing all the requ
 
 ## Step 4 - Install / Enable IIS in Windows (WITH CGI)
 
-Now you have to install / enable IIS in Windows (WITH CGI) using the following steps. (We can bypass some searching by typing **windows features** in the search bar.
+Now you have to install / **enable IIS in Windows (WITH CGI)** using the following steps. (We can bypass some searching by typing `windows features` in the search bar.
 
 - Windows search bar: `windows features`
 - Click: `Turn Windows features on or off`
@@ -163,9 +164,9 @@ Now the web server will be installing and after it's finished you can hit `Close
 
 Now you have to install PHP Manager **(PHPManagerForIIS_V1.5.0)** from the **osTicket-Installation-Files** folder that you downloaded previously.
 
-- Open `osTicket-Installation-Files`
+- Open: `osTicket-Installation-Files`
 - Click: `(PHPManagerForIIS_V1.5.0)`
-- A prompt for PHP Manager will pop up, just click `Next`
+- A prompt for PHP Manager will pop up, just click `Next`.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/7364c0107027432aace6591460438ed688ee653b/14.png>
 
@@ -173,7 +174,7 @@ Next, click `I Agree` and then `Next` on everything else afterwards.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/65aaec3af405a6e1f6e95e98ec9a78b65bbb58fa/15.png>
 
-The installation for PHP Manager is complete, you can click `Close`.
+The installation for **PHP Manager** is complete, you can click `Close`.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/7f2d56d59bd1336d6110d25ce53d1aa273abd9d9/16.png>
 
@@ -198,7 +199,7 @@ The installation for **IIS URL Rewrite Module (rewrite_amd64_en-US)** is complet
 
 Now, your going to create a seperate folder to install **PHP** and we'll create this folder on the **Windows C:\ drive**.
 
-- Right click on the file explorer icon and open a new tab.
+- Right click on the `file explorer` icon and open a new tab.
 - Navigate to the `Windows (C:)` by clicking the drop-down on `This PC`.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/595ba6021ffa70b34ac362408c1ab5bb28a5363b/19.png>
@@ -231,7 +232,7 @@ As you can see the files were successfully extracted into the **PHP** folder.
 
 Now, you have to install **Install VC_redist.x86** (Microsoft Visual C++ Redistributable (x86)) from the **osTicket-Installation-Files** folder.
 
-- Double click `Install VC_redist.x86`.
+- Double click: `Install VC_redist.x86`.
 - Check the box for `I agree the license terms and conditons`, then click `install`.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/7c764ad8d06dc7a977faa5a104f2301e3562971d/24.png>
@@ -246,8 +247,8 @@ The installation for **VC_redist.x86 (Microsoft Visual C++ Redistributable (x86)
 
 Now, you have to install **MySQL (mysql-5.5.62-win32)** from the **osTicket-Installation-Files** folder.
 
-- Double Click `mysql-5.5.62-win32`.
-- Click `Next`.
+- Double Click: `mysql-5.5.62-win32`
+- Click: `Next`
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/ff4bfed03d4a7018fb685729b1faa9a042bb2eb1/26.png>
 
@@ -255,19 +256,19 @@ Now, you have to install **MySQL (mysql-5.5.62-win32)** from the **osTicket-Inst
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/19a13c9b027c1a658861e3b049710228154ae404/27.png>
 
-- For the `Setup Type` Choose `Typical` and it should bring you to the next prompt or just click `Next`.
+- For the `Setup Type`, choose `Typical` and it should bring you to the next prompt or just click `Next`.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/dfd9cb7c931ceb0a14107238f2961a3bce647bb5/28.png>
 
-- Click `Install`.
+- Click `Install`
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/87c97ef5e3289790b446b999b89c9737d7d9cd7d/29.png>
 
-- Check the box for `Launch the MySQL Instance Configuration Wizard`. then click `Finish`.
+- Check the box for `Launch the MySQL Instance Configuration Wizard`, then click `Finish`.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/fd8e57776ab98ab6488e5ab5270e3c70fc188058/30.png>
 
-- Click `Next`.
+- Click `Next`
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/2454ddfeed54ba5b8be9c4eec1e63525c18e15bb/30.png>
 
