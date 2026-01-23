@@ -137,7 +137,7 @@ Once extracted onto the desktop you should have a folder containing all the requ
 
 ## Step 4 - Install / Enable IIS in Windows (WITH CGI)
 
-Now you have to install / **enable IIS in Windows (WITH CGI)** using the following steps. (We can bypass some searching by typing `windows features` in the search bar.
+Now you have to **install / enable IIS in Windows (WITH CGI)** using the following steps. (We can bypass some searching by typing `windows features` in the search bar.
 
 - Windows search bar: `windows features`
 - Click: `Turn Windows features on or off`
@@ -345,7 +345,7 @@ IIS is stopped now and you can go ahead and start it again.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/f206a4f52bcc500fb2eaf9cfa28a1b41b40af2ab/44.png>
 
-This part goes over the process opening IIS with administrator privileges so you have full access to change settings. Then, inside IIS, you connect (or “register”) PHP to the web server so IIS knows how to run PHP files, which osTicket needs to work properly.
+This step goes over the process opening IIS with administrator privileges so you have full access to change settings. Then, inside IIS, you connect (or “register”) PHP to the web server so IIS knows how to run PHP files, which osTicket needs to work properly.
 
 ## Step 11 - Install osTicket-v1.15.8
 
@@ -440,7 +440,7 @@ Now, go back to the osTicket Installer web page and refresh. You can see the ext
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/a19ea33e0ccb93702c7e8f394f05832c3cfceaa5/59.png>
 
-This part makes the osTicket application files available to the web server so you can open a browser, run the setup page, and begin installing the helpdesk system.
+This step makes the osTicket application files available to the web server so you can open a browser, run the setup page, and begin installing the helpdesk system.
 
 ## Step 12 - Rename ost-config.php
 
@@ -460,9 +460,11 @@ One you've found the PHP File `ost-sampleconfig.php`, we're going to rename it e
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/ee67bd7a7bd2015015c85191e77fad302d019f3c/61.png>
 
+This step involves renaming the configuration file so osTicket can use it during installation. Renaming the file allows osTicket to save important settings, such as database information, and continue with the setup process.
+
 ## Step 13 -  Assigning permissions to the ost-config.php file
 
-Now, we're going to assign permissions to `ost-congif-php` file so that **osTicket** can make changes to the file on the backend.
+Now, we're going to assign permissions to `ost-congif-php` file so that osTicket can make changes to the file on the backend.
 
 - Right click on the `ost-congif-php` file.
 - CLick on `Properties`.
@@ -479,20 +481,20 @@ As you can see there are no permissions so next, click on `Add` then inside the 
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/8d642878719309be33e70f2c51cebeec925a6e58/64.png>
 
-Once inside the `Select User or Group` prompt, were it says `Enter the object name to select`. type `Everyone` then click on `Check Names` and you'll noticed that it worked when the word is **underlined**. Then click on `OK`.
+Once inside the `Select User or Group` prompt, were it says `Enter the object name to select`. Type `Everyone` then click on `Check Names` and you'll noticed that it worked when the word is **underlined**. Then click on `OK`.
 
 **Please note that this is not ideal for real world use, but to keep this lab simple you, this is fine to put.**
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/432d2b390173528d1d39639a626b81caa91a4b78/65.png>
 
-Now, check the box next to `Full control`, then click `OK`.
+Next, check the box next to `Full control`, then click `OK`.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/0ac65f225ebc22448394e4a9aacd38117a0b82e7/66.png>
 
 As you can see in the `Advanced Security Settings for include` prompt under `Permission entries`. **Everyone** now has **Full Control**.
 
-- Click `Apply`.
-- Then click `OK`.
+- Click: `Apply`
+- Then click `OK`
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/9db2e837817620718c3968e279cb7cce45c8bfa2/67.png>
 
@@ -500,9 +502,11 @@ Click `OK` as well in the `include Properties` prompt.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/bda1a9fb8fca9cffeef2dc768d506665134811f7/68.png>
 
+This step means giving osTicket permission to write to the ost-config.php file during installation. Without the correct permissions, osTicket cannot save its configuration settings and the installation will fail.
+
 ## Step 14 -  Continue setting up osTicket in the browser
 
-Now, you can go back to the `osTicket Installer` on your browser and click `Continue`.
+Now, you can go back to the osTicket Installer on your browser and click `Continue`.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/d2b2028a7a4b47988630c36eaa236483663b394c/69.png>
 
@@ -525,13 +529,15 @@ like I mentioned on **Step 1** to keep any passwords & usernames that you've cre
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/1461325fc5205e802d332b638eba5cb10db0f09b/71.png>
 
+This step means opening a web browser and finishing the osTicket installation using the setup page. Here, you enter basic details like the helpdesk name, admin account, and database information so osTicket can complete the setup and start working.
+
 ## Step 15 -  Install HeidiSQL to Setup the Database Settings
 
 Before we continue, we need to configure the database so we can fill in the credentials in the Database Settings section. Although we have already installed the database application on the backend, we still need to create a new database specifically for osTicket. We will use `HeidiSQL` to complete this setup.
 
 - Go back to the `osTicket-Installation-Files` folder on your desktop.
 - Double click on `HeidiSQL_12.3.0.6589_Setup`.
-- Check `I accept the agreement`.
+- Check: `I accept the agreement`.
 - Keep clicking next till you get to the prompt with `Install` at the bottom.
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/2946c2e54be2ae1082eed3d94544bb8e7e96c582/72.png>
@@ -579,16 +585,20 @@ As you can see, the database is created. However, there is nothing in it, but, t
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/49b9c8140dc6054701485557315ff30991ba7c7a/80.png>
 
+This step involves installing HeidiSQL, a database management tool, so you can create and manage the MySQL database that osTicket will use. HeidiSQL lets you easily set up the database and user information needed during the osTicket installation.
+
 ## Step 16 - Continue setting up osTicket in the browser and complete installtion (Database Settings section)
 
 Now, we can enter the credentials that we made in `HeidiSQL` in `Step 15` into the `Database Settings` section.
 
-- MySQL Database: `osTicket`.
-- MySQL Username: `root`.
-- MySQL Password: `ROOT`. **(All Capital Letters)**
-- Then click on `Install Now`.
+- MySQL Database: `osTicket`
+- MySQL Username: `root`
+- MySQL Password: `ROOT` **(All Capital Letters)**
+- Then click on `Install Now`
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation/blob/99ae107c9454f8ecd5f0c88884328fbb26e41f98/81.png>
+
+In this step, you return to the osTicket setup page in your web browser and fill in the Database Settings section. Here, you enter the database name, username, and password you created in HeidiSQL. Once this information is entered correctly, you can finish the installation and complete the osTicket setup.
 
 ## Step 17 - osTicket is successfully installed and confirm validation.
 
@@ -609,6 +619,9 @@ End Users osTicket URL: http://localhost/osTicket/
 ## Conclusion 
 
 With both links and osTicket installed and operating, this concludes part #1 of the osTicket lab.
+
+Please join me on **PART #2** - [osTicket: Post-Install Configuration](https://github.com/NickTech03/osTicket-Lab-Post-Install-Configuration), were we explore the osTicket portal and make some configurations before we start creating and solving ticket examples.
+
 
 
 
